@@ -1,6 +1,6 @@
 # SIEM & Incident Response Home Lab: SSH Brute Force Detection
 
-A hands-on home lab simulating a real-world SOC investigation workflow — from infrastructure build-out, to attack execution, to detection and analysis using both log-based and packet-based tooling.
+A hands-on home lab simulating a real-world SOC investigation workflow — from the infrastructure build-out, to attack execution, detection, and analysis using both log-based and packet-based tooling.
 
 ## Overview
 
